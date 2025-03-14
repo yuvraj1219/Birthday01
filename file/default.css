@@ -4,9 +4,9 @@ body {
   background-image: url('../img2.png');
   background-size: cover;
   background-repeat: no-repeat;
-  font-size: 14px;
+  font-size: 18px;
   font-family: sans-serif;
-  color: white;
+  color: yellow;
   overflow: auto;
 }
 a {
@@ -19,8 +19,8 @@ a {
 #wrap {
   position: relative;
   margin: 0 auto;
-  width: 3000px;
-  height: 800px;
+  width: 1800px;
+  height: 1000px;
   margin-top: 10px;
 }
 #text {
@@ -33,7 +33,7 @@ a {
 #code {
   display: none;
   color: rgb(196, 255, 255);
-  font-size: 16px;
+  font-size: 18px;
   margin-top: 70px;
   line-height: 25px;
   font-size: larger;
